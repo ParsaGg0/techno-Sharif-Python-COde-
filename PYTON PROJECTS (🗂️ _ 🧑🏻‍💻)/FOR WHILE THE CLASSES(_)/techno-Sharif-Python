@@ -1,0 +1,14 @@
+techno-Sharif-Python-Code-
+│
+├── 01_basics
+│   ├── variables_operators.ipynb
+│   ├── loops_conditions.ipynb
+│   └── strings_lists.ipynb
+│
+├── 02_data_cleaning
+│   ├── dirty_data.csv
+│   └── data_cleaning_workshop.ipynb
+│
+└── 03_projects
+    ├── customs_simulation.py
+    └── bubble_sort_demo.py
